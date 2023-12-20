@@ -1,4 +1,4 @@
-# Introduction-to-linked-list
+# Introduction to Linked List
 
 ### Objective
 In this project, our main goal is to understand the fundamentals of a linked list and their operations.
