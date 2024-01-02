@@ -12,3 +12,13 @@ Create three node objects that correspond to the following diagram.
 * Create a `Node` class where the data is an integer.
 * In the main method create three objects and link them together.
 * print the values by using the loop method.
+
+```java
+public class Main {
+     public static void main(String[] args) {
+
+     /* your code here */
+
+    }
+}
+```
