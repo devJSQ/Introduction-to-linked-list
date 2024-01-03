@@ -11,7 +11,8 @@ Create three node objects that correspond to the following diagram.
 ### Implementation
 * Create a `Node` class where the data is an integer.
 * In the main method create three objects and link them together.
-* print the values by using the loop method.
+* Add 2 to all elements in the list by using the loop method.
+
 
 ```java
 public class Main {
